@@ -35,7 +35,7 @@ This project demonstrates a simple machine learning workflow to predict employee
 
 ## How to Run
 1. Clone the repository:  
-   `git clone https://github.com/ghanshyam1010/salary-prediction-ml.git`
+   `git clone https://github.com/gshyam1010/salary-prediction-ml.git`
 2. Open `salary_prediction.ipynb` in Jupyter Notebook and run all cells.
 
 ## Author
