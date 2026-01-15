@@ -37,3 +37,7 @@ This project demonstrates a simple machine learning workflow to predict employee
 1. Clone the repository:
    ```bash
    git clone https://github.com/ghanshyam1010/salary-prediction-ml.git
+## Author
+**Ghanshyam Gondaliya**  
+MSc Robotics with AI  
+London, UK
